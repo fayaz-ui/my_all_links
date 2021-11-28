@@ -32,14 +32,12 @@ body {
 }
 
 h3,
+h6,
 h5 {
   color: whitesmoke;
   letter-spacing: 2px;
 }
-h6{
-  color: whitesmoke;
-  letter-spacing: 2px;
-}
+
 
 .links-block {
   margin-top: 1rem;
