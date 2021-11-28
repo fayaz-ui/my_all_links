@@ -27,12 +27,16 @@ body {
   width: 5rem;
   object-fit: cover;
   /* for circle */
-  /* aspect-ratio: 1/1;
-  border-radius: 50%; */
+  aspect-ratio: 1/1;
+  border-radius: 50%; 
 }
 
 h3,
 h5 {
+  color: whitesmoke;
+  letter-spacing: 2px;
+}
+h6{
   color: whitesmoke;
   letter-spacing: 2px;
 }
