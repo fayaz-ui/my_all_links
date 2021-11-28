@@ -27,7 +27,6 @@ body {
   width: 5rem;
   object-fit: cover;
   /* for circle */
-  aspect-ratio: 1/1;
   border-radius: 50%; 
 }
 
